@@ -3,7 +3,7 @@ __author__ = 'U269074'
 print ("Welcome to Klara's calculator!")
 
 x = int(raw_input("Definiraj prvo stevilko: "))
-y = float(raw_input("Definiraj drugo stevilkor: "))
+y = float(raw_input("Definiraj drugo stevilko: "))
 
 z = raw_input("Napisi racunsko operacijo (sestevanje/odstevanje/mnozenje/deljenje/potenciranje): ")
 
